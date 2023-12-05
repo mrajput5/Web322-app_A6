@@ -1,11 +1,12 @@
 /*********************************************************************************
 *  WEB322 – Assignment 06
-*  I declare that this assignment is my own work in accordance with Seneca  Academic Policy.  No part *  of this assignment has been copied manually or electronically from any other source 
+*  I declare that this assignment is my own work in accordance with Seneca  Academic Policy.  No part 
+*  of this assignment has been copied manually or electronically from any other source 
 *  (including 3rd party web sites) or distributed to other students.
 * 
-*  Name: Mehak Rajput Student ID: 112874227 Date: 12/04/2023
+*  Name: MEHAK RAJPUT Student ID: 112874227 Date: 2023/02/11
 *
-*  Online (Cyclic) Link: 
+*  Online (Cyclic) Link: ________________________________________________________
 *
 ********************************************************************************/ 
 
